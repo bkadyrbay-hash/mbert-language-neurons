@@ -1,0 +1,26 @@
+label,layer,neuron,top tokens,langs (top-200),## share,1-char share
+kaz+yor,0,240,te le d по din to r in i l at t,"yor:195, kaz:5",0.01,0.66
+kaz+yor,0,473,##нал ##ман ##ри ##нем ##ни ##нама ##зы ##нала ##лу е ##би ##á,"kaz:167, yor:33",0.84,0.32
+kaz+yor,0,690,##iri ##un ##уда ##ír ##ir ##у ##с ##уд ##n ##wa ##mu -,"yor:138, kaz:62",1.0,0.18
+kaz+yor,0,852,##пер пер ##ye ##әсе ##гер ##өр ##елес ##нета ##нем ì ##ә ##bí,"kaz:138, yor:62",0.72,0.31
+yor #1,8,2868,##n i yi bi ##a ri na ni kan in ##re to,yor:200,0.28,0.3
+kaz+rus,9,973,в ##е на ##м ##ом ##и ##му ##ю ##ми ##у ##ы ##ском,rus:200,0.66,0.66
+yor #2,10,1869,ti ni à n tí - kan ní náà ó sí i,yor:200,0.09,0.44
+eng #1,11,72,"##closed s ##s en "" blow ##ment the States E ##ro or",eng:200,0.24,0.14
+rus #3,11,115,из но от за для ##рь качестве ##м Б ##ес с ##й,"rus:196, kaz:3, deu:1",0.2,0.34
+"rus #1, cmn #3",11,244,##ың от В ##ие б С из и ##ного М 的 Б,"rus:120, kaz:62, cmn:17",0.36,0.55
+kaz+rus,11,277,М Се В К Н Лас Г Т Д А Бил П,"kaz:113, rus:87",0.0,0.76
+deu #3,11,335,"anderen der die ##ue Tempel ##iegen Mitglied Seite wenn . Mann ,",deu:200,0.27,0.1
+eng #2,11,490,of the a in performed ##s pretty with on to app this,eng:200,0.04,0.18
+deu #1,11,554,##ung von über um für zur die den das ##en eine zum,deu:200,0.19,0.1
+fra #3,11,612,la est le grecque des La ##que un une chanteuse . de,fra:200,0.06,0.12
+kaz+rus,11,1064,##а из в ##ского к ##нимают ##м ##я ##чив В ##ском на,rus:200,0.5,0.54
+kaz+rus,11,1147,У П По К Г Қ С В О Т Н Олар,"kaz:110, rus:87, yor:3",0.0,0.87
+deu #2,11,1822,##iert ##chten Die den ##ren Ihre ##ü ##ber ##iger die Sie der,deu:200,0.28,0.12
+rus #2,11,1973,##и ш ( ##ын ##ара ##пу К - ##че ##ения ##ғын ма,"kaz:169, rus:31",0.58,0.42
+fra #1,11,2096,une qui en - ' la le ce des ville ##e .,fra:200,0.12,0.4
+yor #3,11,2193,y j ##se ##ín ##y ##k ##j ##b ##á ##è ##éd ##ég,yor:200,0.53,0.7
+cmn #2,11,2285,历 罗 泽 约 德 维 诺 纳 山 亚 苏 卫,cmn:200,0.0,1.0
+fra #2,11,2378,il ' avait est à avoir y a d ##s ont avaient,fra:200,0.02,0.5
+cmn #1,11,2866,） （ 在 银 司 来 比 资 一 利 行 的,cmn:200,0.0,1.0
+eng #3,11,2940,The In On the on At in ##row by Moreover A ##ted,eng:200,0.04,0.03

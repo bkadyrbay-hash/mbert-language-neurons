@@ -1,0 +1,13 @@
+selection,,n neurons,Δ diag,z diag,ppl +%,Δ per neuron (×1000),diag is max of row,diag is max of column,|off-diag| max,z of that
+main,eng_Latn,9,0.015,2.031,1.491,1.644,True,True,0.001,1.77
+main,fra_Latn,14,0.134,12.952,14.31,9.553,True,True,0.004,4.183
+main,deu_Latn,13,0.039,5.298,3.944,2.976,True,True,0.002,2.601
+main,rus_Cyrl,9,0.079,10.14,8.173,8.729,True,True,0.003,5.146
+main,cmn_Hans,8,0.082,8.231,8.56,10.266,True,True,0.003,4.703
+main,yor_Latn,45,0.15,12.69,16.238,3.344,True,True,0.013,-2.934
+tang_code,eng_Latn,25,0.031,2.861,3.135,1.235,True,True,0.007,4.601
+tang_code,fra_Latn,53,0.158,13.543,17.065,2.973,True,True,0.012,2.269
+tang_code,deu_Latn,48,0.055,6.23,5.612,1.137,True,True,0.007,3.87
+tang_code,rus_Cyrl,24,0.106,12.368,11.225,4.433,True,True,0.008,5.639
+tang_code,cmn_Hans,14,0.091,9.146,9.572,6.53,True,True,0.011,4.848
+tang_code,yor_Latn,220,0.368,19.413,44.427,1.671,True,True,0.022,5.336

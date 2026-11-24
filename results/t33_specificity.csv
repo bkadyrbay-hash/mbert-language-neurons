@@ -1,0 +1,13 @@
+selection,,n neurons,diag (LAPE),off-diag mean (LAPE),diag (random),off-diag mean (random)
+main,eng_Latn,9,0.015,0.001,0.001,0.001
+main,fra_Latn,14,0.134,0.002,-0.001,0.001
+main,deu_Latn,13,0.039,0.0,0.001,0.001
+main,rus_Cyrl,9,0.079,0.002,0.001,0.001
+main,cmn_Hans,8,0.082,0.001,0.001,0.001
+main,yor_Latn,45,0.15,0.002,0.002,0.003
+tang_code,eng_Latn,25,0.031,0.004,0.001,0.003
+tang_code,fra_Latn,53,0.158,0.008,0.006,0.005
+tang_code,deu_Latn,48,0.055,0.003,0.01,-0.007
+tang_code,rus_Cyrl,24,0.106,0.003,0.004,0.002
+tang_code,cmn_Hans,14,0.091,0.004,0.0,0.001
+tang_code,yor_Latn,220,0.368,0.008,-0.016,0.008

@@ -1,0 +1,21 @@
+selection,,r (raw w),r (LN-corrected w)
+main,LAPE eng,0.1437,0.1443
+main,LAPE fra,0.1195,0.1204
+main,LAPE deu,0.081,0.0812
+main,LAPE rus,0.1163,0.1174
+main,LAPE cmn,0.1182,0.123
+main,LAPE yor,0.0319,0.0324
+main,LAPE (all),0.076,0.0769
+main,random (same layers),0.0059,0.0058
+main,all neurons,0.0062,0.006
+main,k/d,0.0065,0.0065
+tang_code,LAPE eng,0.0907,0.0913
+tang_code,LAPE fra,0.0391,0.04
+tang_code,LAPE deu,0.0293,0.0293
+tang_code,LAPE rus,0.0728,0.0732
+tang_code,LAPE cmn,0.0801,0.0827
+tang_code,LAPE yor,0.013,0.0129
+tang_code,LAPE (all),0.0303,0.0305
+tang_code,random (same layers),0.0075,0.0073
+tang_code,all neurons,0.0062,0.006
+tang_code,k/d,0.0065,0.0065
